@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header CSS content */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +43,8 @@ header div ul li {
     margin-left: 25px;
 }
 
+/* Footer CSS Content */
+
 footer {
     padding: 30px;
     clear: both;
@@ -52,6 +56,8 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Non-specific HTML elements */
+
 p {
     font-size: 16px;
 }
@@ -60,6 +66,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* General sections of the webpage */
 
 .hero {
     height: 800px;
@@ -87,6 +95,8 @@ a {
     background-color: #2589bd;
 }
 
+/* Card class specifics (within content class) */
+
 .card {
     margin-bottom: 20px;
     padding: 50px;
@@ -105,6 +115,8 @@ a {
     font-size: 36px;
 }
 
+/* Tag class specifics (within benefits class) */
+
 .tag {
     margin-bottom: 32px;
     color: #ffffff;
@@ -120,6 +132,8 @@ a {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Image positioning tags */
 
 .float-left {
     float: left;
