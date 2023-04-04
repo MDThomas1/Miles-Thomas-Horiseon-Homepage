@@ -1,4 +1,4 @@
-# Miles-Thomas-homework-task-1
+# Miles-Thomas-Horiseon-Homepage
 
 ## URL to Website
 https://mdthomas1.github.io/Miles-Thomas-homework-task-1/
