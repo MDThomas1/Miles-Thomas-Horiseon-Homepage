@@ -1,7 +1,7 @@
 # Miles-Thomas-Horiseon-Homepage
 
 ## URL to Website
-https://mdthomas1.github.io/Miles-Thomas-homework-task-1/
+https://mdthomas1.github.io/Miles-Thomas-Horiseon-Homepage/
 
 ## Description
 A home base to the Horiseon webpage, displaying some key skills to achieve entrepreneurial success in the new digital world.
